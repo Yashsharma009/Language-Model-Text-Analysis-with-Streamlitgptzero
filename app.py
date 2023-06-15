@@ -1,6 +1,7 @@
 import streamlit as st
 import nltk
 nltk.download('punkt')
+nltk.download('brown')
 from nltk.util import ngrams
 from nltk.lm.preprocessing import pad_sequence, padded_everygram_pipeline
 from nltk.lm import MLE, Vocabulary
