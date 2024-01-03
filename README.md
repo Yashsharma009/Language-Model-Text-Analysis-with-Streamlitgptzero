@@ -57,9 +57,8 @@ This app utilizes the following libraries:
 
 ## Contact
 
-If you have any questions or need further information about this project, please contact us at [your_email@example.com].
+If you have any questions or need further information about this project, please contact us at sharyash1101@gmail.com.
 
-Note: The code for this project is not included in the README. If you want access to the code or more project details, please contact us at [your_email@example.com].
+Note: The code for this project is not included in the README. If you want access to the code or more project details, please contact us at sharyash1101@gmail.com.
 ```
 
-Make sure to replace `[your_email@example.com]` with the actual contact email address and `your_app_name.py` with the correct name of your Python script. Customize the README based on your project details and preferences.
